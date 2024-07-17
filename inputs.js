@@ -2,7 +2,7 @@
 Section 5: Making the website work
 - Add your calendly link between the quotation marks '' below
 */
-const emailOctopusScript = ''
+const emailOctopusScript = '<script async src="https://eocampaign1.com/form/8f8a9e7c-4427-11ef-a978-a70c3655571f.js" data-form="8f8a9e7c-4427-11ef-a978-a70c3655571f"></script>'
 const calendlyLink = 'https://calendly.com/michaelkenrick94/30min'
 
 /*
