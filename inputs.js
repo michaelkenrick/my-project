@@ -19,27 +19,27 @@ Black hex color code: #000000
 // Branding: Update with your company logo, name and colors
 const logoFileName = 'logo.png'
 
-const companyName = 'NOTFLIX'
-const companyNameColor = '#E50914'
+const companyName = 'Reddit'
+const companyNameColor = 'green'
 
-const buttonBackgroundColor = '#E50914' // Likely the same as your company name color
+const buttonBackgroundColor = 'green' // Likely the same as your company name color
 const buttonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // Social media: Update with links to your social media accounts. Leave blank if not relevant
-const facebookLink = 'https://facebook.com'
-const instagramLink = 'https://instagram.com'
+const facebookLink = ''
+const instagramLink = ''
 const xLink = 'https://x.com'
-const linkedinLink = 'https://linkedin.com'
-const youtubeLink = 'https://youtube.com'
-const tiktokLink = 'https://tiktok.com'
-const discordLink = 'https://discord.com'
+const linkedinLink = ''
+const youtubeLink = ''
+const tiktokLink = ''
+const discordLink = ''
 
 // Header and description: Update with your value statements
-const headerText = 'Unlimited films, TV programmes and more' // One-line description of what you will offer customers
-const descriptionText = 'Watch anywhere. Cancel at any time.' // More detailed description of what you will offer customers
+const headerText = 'This is what I do' // One-line description of what you will offer customers
+const descriptionText = 'This is a longer description of what the hell I do because I have no idea' // More detailed description of what you will offer customers
 
 // Email address: Update with your own email address. Leave blank if not relevant
-const contactEmail = 'example@notflix.com'
+const contactEmail = 'example@reddit.com'
 
 
 
