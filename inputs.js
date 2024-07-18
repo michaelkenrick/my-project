@@ -17,7 +17,7 @@ Black hex color code: #000000
 
 // HIGH PRIORITY CHANGES
 // Branding: Update with your company logo, name and colors
-const logoFileName = 'reddit.png'
+const logoFileName = 'red-reddit-icon-7.png'
 
 const companyName = 'Reddit'
 const companyNameColor = 'green'
