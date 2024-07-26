@@ -35,7 +35,7 @@ const tiktokLink = ''
 const discordLink = ''
 
 // Header and description: Update with your value statements
-const headerText = 'This is what I do' // One-line description of what you will offer customers
+const headerText = 'This is the thing\'s < > ! @ £ $ % ^ & * ( ) - _ + = [ ] { } " \ : ; | , . / ? ~ ` what I do' // One-line description of what you will offer customers
 const descriptionText = 'This is a longer description of what the hell I do because I have no idea' // More detailed description of what you will offer customers
 
 // Email address: Update with your own email address. Leave blank if not relevant
